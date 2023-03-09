@@ -22,3 +22,7 @@ while p1 > 0:
             print("Ты выиграл!")
             ins = True
             break
+        else:
+            print("Неправильно")
+            hp -= 1
+            
