@@ -25,4 +25,17 @@ while p1 > 0:
         else:
             print("Неправильно")
             hp -= 1
-            
+    if na == "2":
+        ne = input("Буква: ").lower()
+        if ne on a:
+            for x in range(len(a)):
+                if ne == a[x]:
+                    z[x] = ne
+        else:
+            print("Такой буквы здесть нету")
+            p1 -= 1
+    if z == a:
+        win = true
+        break
+  if win == True:
+    print("Молодец, ты угадал слово")
