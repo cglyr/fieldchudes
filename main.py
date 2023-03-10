@@ -4,7 +4,7 @@ p1 = 10
 a = choice(emp1).lower()
 hf = a
 hf = list(a.lower())
-print("Добро пожаловать в игры на выживание!")
+print("Добро пожаловать в игры на виселицу! В первый раз?")
 z = ""
 win = False
 zg = z
